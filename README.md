@@ -10,7 +10,7 @@ PBs are a set of 16 pentapeptide structural motifs (de Brevern et al, Proteins 4
 They are abstraction of the unique local backbone structures present in proteins and upon which the backbone model of the proteins can be built. 
 Each of the 16 protein blocks is defined by a vector of 8 dihedral angles associated with five consecutive residues and represented by an alphabet character from a to p.
 
-The scripts provided here converts a given PDB format protein structure file into 1D sequence of PBs .This reduced representation of structure is useful in structure analysis & comparison of proteins.
+The scripts provided here convert a given PDB format protein structure file into 1D sequence of PBs .This reduced representation of structure is useful in structure analysis & comparison of proteins.
 
 
 ########################################################################################################
