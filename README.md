@@ -23,8 +23,8 @@ This command will assign PBs to all the chains in a single pdb file.
 If you want to assign PBs to multiple pdb files you can write a simple shell script as follows:
 
 ***** 
-** Please note that this version uses information only from the ATOM records of the PDB files. 
-** Therefore, the amino acid sequences provided as an output are also based on ATOM records. 
+** Please note that this version uses information only from the ATOM records of the PDB files.
+** Therefore, the amino acid sequences provided as an output are also based on ATOM records.
 ** If the PDB file has missing residues then those missing residues will not be present in amino acid sequence file.
 ** We will addressed this issue in the next version of these scripts.
 *****
